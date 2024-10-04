@@ -36,4 +36,8 @@ const config: HardhatUserConfig = {
   },
 };
 
+// Deployed Addresses
+
+// NftMarketplaceModule#NFTMarketplace - 0x515F1c281A08EbEa1728b67c7561F69b9Dc3ab72
+
 export default config;
